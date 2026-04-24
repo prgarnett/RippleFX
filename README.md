@@ -2,7 +2,7 @@
 
 A desktop tool for generating **temporal graph visualisations** from CSV data. It parses node and relationship files, produces [Graphviz](https://graphviz.org/) DOT files, and renders them as PNG images — with events aligned to a chronological timeline spine.
 
-![Example output](docs/example.png)
+<img src="docs/example.png" width="400" alt="Example output"/>
 
 ---
 
