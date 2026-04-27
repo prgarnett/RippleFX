@@ -2,6 +2,9 @@
 
 A desktop tool for generating **temporal graph visualisations** from CSV data. It parses node and relationship files, produces [Graphviz](https://graphviz.org/) DOT files, and renders them as PNG images — with events aligned to a chronological timeline spine.
 
+### Read the paper here
+Padgett, Louise, Philip Garnett, Maria Bryant, Laura Nixon, Patience Gansallo, Amy Creaser, Bridget Lockyer, Jessica Sheringham, and Liina Mansukoski. 2026. [“Creating a Meta-REM Map: Pragmatic Improvements to Ripple Effects Mapping Methodology Used to Support Evaluations of Complex Public Health Systems.”](http://dx.doi.org/10.1186/s12874-026-02811-6) BMC Medical Research Methodology 26 (1): 74.
+### Example output
 <img src="docs/example.png" width="400" alt="Example output"/>
 
 ---
